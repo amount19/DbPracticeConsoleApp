@@ -1,0 +1,6 @@
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\bin\Debug\DbPracticeConsole.exe.config
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\bin\Debug\DbPracticeConsole.exe
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\bin\Debug\DbPracticeConsole.pdb
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\obj\Debug\DbPracticeConsole.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\obj\Debug\DbPracticeConsole.exe
+c:\users\anthony\documents\visual studio 2012\Projects\DbPracticeConsole\obj\Debug\DbPracticeConsole.pdb
